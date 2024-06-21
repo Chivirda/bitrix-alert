@@ -1,4 +1,4 @@
-*** Заготовка под битрикс в докере
+### Заготовка под битрикс в докере
 
 1. `mkdir www bitrix upload logs logs/apache`
 2. `sudo chown -R www-data:www-data ./www ./bitrix ./upload`  
